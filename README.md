@@ -1,5 +1,5 @@
 # Yihuan Zhang
-## Senior Student Majoring in Applied Statistics
+### Senior Student Majoring in Applied Statistics
 ### Expected in June 2017
 
 
