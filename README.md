@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## What I have learned through STA 141B
 
-You can use the [editor on GitHub](https://github.com/yihzhang/yihzhang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It has been my fortune to be first students taking STA 141B in UCD. The class has definitely been challenging, and at the same time super beneficial to us students. I have not had a Python background before I take this class, since most of the courses offered in UCD are based on R. Python is definitely one of the most popular and widely-used data analysis tool in the modern world, and through this quarter, now I have added Python to my toolbox successfully. I have learned Web scraping, accessing APIs, text processing, plotting geographical data, and accessing database through SQLite through Python. More importantly, this course has stimulated my interest on Python programming, and I will keep learning more about Python on it application on Data Visualization and Machine Learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What I am gonna do in the future
 
-### Markdown
+This is my last quarter in UCD, and I am going to graduate school and keep pursuing Statistical knowledge during my graduate's study. I hope to be a data analyst or a data scientist after I graduate, and there is still so much things to learn about Statistics theory and Statistcal programming for me. I will make full use of next few years and try to become a qualified data scientist in the future. STA 141B is definitely a great start for me, and I will definitely keep going!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Final Project
 
-```markdown
-Syntax highlighted code block
+Here is my [Final Project Repo](https://github.com/ChrisJZK/STA-141B-Final-Project)(including Final Project and the CSV files being used).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yihzhang/yihzhang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact 
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here is my [Final Project](https://github.com/ChrisJZK/STA-141B-Final-Project/blob/master/STA%20141B%20Final%20Project.ipynb).
