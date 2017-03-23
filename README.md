@@ -2,7 +2,7 @@
 ### Senior Student Majoring in Applied Statistics
 ### Expected in June 2017
 
-
+<p class="red">Hello STA 141B!</p>
 
 ## Intention to take STA 141B
 
